@@ -6,7 +6,7 @@ DRM-X helps protect video, audio, PDF, eLearning, and LMS content with secure li
 
 ## Documentation
 
-- [Moodle Integration](https://www.drm-x.com/download/DRM-X_5.0_Integration/DRM-X5.0MoodleIntegrationPluginUserGuidev1.6.1.pdf)
+- [Moodle Integration](moodle/README.md)
 - [WordPress Integration](wordpress/README.md)
 - DRM-X API
 - SDK Documentation
